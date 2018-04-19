@@ -1,0 +1,28 @@
+#message div{
+    width:800px;
+    margin:20px auto;
+    font-size: 20px;
+}
+.e .email{
+    height:50px;
+    width:500px;
+    outline: 1px solid #EA3939;
+    padding:10px;
+}
+.f .feedback{
+    height:400px;
+    width:800px;
+    outline: 1px solid #EA3939;
+    padding:50px;
+}
+.btn{
+    height:50px;
+    width:100px;
+    background: #EA3939;
+    color:#fff;
+    outline:none;
+    border:0;
+    margin:20px auto;
+    text-align:center;
+    line-height:50px;
+}
