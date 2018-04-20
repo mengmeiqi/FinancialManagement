@@ -15,9 +15,11 @@
     font-size: 18px;
 }
 #about .list div{
-    height:50px;
-    line-height:50px;
+    height:60px;
+    line-height:60px;
     text-align:center;
+    background: #0000ff;
+    color:#fff;
 }
 #about .list li{
     height:40px;
@@ -34,5 +36,12 @@
     border:1px #EA3939 solid;
 }
 #about .content div{
-    /*display:none;*/
+    display:none;
+}
+#about li.selected{
+    background: #EA3939;
+    color:#fff;
+}
+#about div.selected{
+    display:block;
 }
